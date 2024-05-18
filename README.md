@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Anurag Bhardwaj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A developer from India</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Spring Boot**
 
-- 👯 I’m looking to collaborate on **Frontend Opportunities**
+- 👯 I’m looking to collaborate on **Backend Opportunities**
 
 - 👨‍💻 All of my projects are available at [https://anuragbhardwaj.vercel.app/](https://anuragbhardwaj.vercel.app/)
 
-- 💬 Ask me about **React, JavaScript, Java**
+- 💬 Ask me about **Spring Boot, Node.js, React, JavaScript, Java**
 
 - 📫 How to reach me **a4anurag13@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1S3vanh0xjz8S_FYW0kRNRMW5glT7nLy9/view?usp=share_link](https://drive.google.com/file/d/1S3vanh0xjz8S_FYW0kRNRMW5glT7nLy9/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cdNro9QHP2ZeyP1KsRwxnyWo_ZZ78iNl/view?usp=sharing)
 
 - ⚡ Fun fact **We all are going to die someday**
 
